@@ -3,7 +3,7 @@
 一个使用 HTML、CSS 和 JavaScript 编写的简洁待办事项网页工具。
 
 ## 在线预览
-https://nomeain.github.io/-todo-app/
+https://nomeain.github.io/todo-app/
 
 ## 项目简介
 这是一个适合日常使用的轻量级待办事项网页应用，界面简洁，操作直观，支持本地存储，刷新页面后任务不会丢失。
